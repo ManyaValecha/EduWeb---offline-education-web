@@ -4,7 +4,7 @@
 
 EduWeb Offline Education Web is a cutting-edge **Progressive Web App (PWA)** designed to bridge the education gap in areas with **low or no internet connectivity**. Built with modern offline-first technologies and powered by AI, EduWeb ensures uninterrupted learning for underserved communities.
 
-This project is a proud submission for **Local Dawn Hackathon 2025**, crafted with passion and purpose to drive real-world impact.
+This project is a proud submission  crafted with passion and purpose to drive real-world impact.
 Link to access full codes - https://drive.google.com/file/d/1WMOmUNRkPeyktyGQL7f0p9FQaeM8zhyq/view?usp=sharing
 ---
 
