@@ -103,11 +103,14 @@
 
     <div id="root"></div>
 
+    <!-- Background only on homepage -->
     <script>
       const homepagePaths = ["/", "/index.html"];
       if (homepagePaths.includes(window.location.pathname)) {
         document.body.classList.add("homepage-bg");
       }
     </script>
+
+    <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
