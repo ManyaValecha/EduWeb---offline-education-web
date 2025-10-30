@@ -77,16 +77,13 @@ User Device │ ├──> EduWeb PWA (HTML/CSS/JS) │ ├─ Service Worker �
 <img width="1710" alt="Screenshot 2025-03-20 at 9 24 54 AM" src="https://github.com/user-attachments/assets/49d7692b-cb4a-4249-8ccb-babdeb21c26e" />
 <img width="1710" alt="Screenshot 2025-03-20 at 9 22 10 AM" src="https://github.com/user-attachments/assets/1803cbdf-2fa3-411c-aefd-1f85c569f050" />
 <img width="1710" alt="Screenshot 2025-03-20 at 9 21 13 AM" src="https://github.com/user-attachments/assets/49f5c4d8-f41d-4a18-a895-89c819c90601" />
-<img width="1710" alt="Screenshot 2025-03-20 at 9 21 44 AM" src="https://github.com/user-attachments/assets/43bdbe07-0e02-4674-903d-ba5c88c7517c" />
 <img width="1710" alt="Screenshot 2025-03-20 at 9 22 36 AM" src="https://github.com/user-attachments/assets/0826cee6-4fbd-46b2-b75c-bf16eaba5b58" />
 <img width="1710" alt="Screenshot 2025-03-20 at 9 22 47 AM" src="https://github.com/user-attachments/assets/e5eff54c-49ec-4f5e-b85f-67565fadac52" />
 <img width="1710" alt="Screenshot 2025-03-20 at 9 22 57 AM" src="https://github.com/user-attachments/assets/b2c896a3-3eb5-48cd-86e6-543fd4b78110" />
-<img width="1710" alt="Screenshot 2025-03-20 at 9 23 23 AM" src="https://github.com/user-attachments/assets/d1b2f21b-3afa-405f-9982-6a3ce3d29ac0" />
-<img width="1710" alt="Screenshot 2025-03-20 at 9 23 35 AM" src="https://github.com/user-attachments/assets/705560e6-b225-4889-940e-5aaebd59f295" />
-<img width="1710" alt="Screenshot 2025-03-20 at 9 23 54 AM" src="https://github.com/user-attachments/assets/522543b1-5af8-419f-8065-935dea5f6e2f" />
-<img width="1710" alt="Screenshot 2025-03-20 at 9 24 04 AM" src="https://github.com/user-attachments/assets/b3955a0a-11e6-4933-9ebe-a2cd3d2b3112" />
-<img width="1710" alt="Screenshot 2025-03-20 at 9 24 28 AM" src="https://github.com/user-attachments/assets/d0f49df2-9c84-4350-a85f-db10c6bf461e" />
-<img width="1710" alt="Screenshot 2025-03-20 at 9 24 37 AM" src="https://github.com/user-attachments/assets/d4a9a26c-5d64-4b8f-9507-80e3c3980e24" />
+
+
+
+
 
 
 
@@ -137,8 +134,9 @@ Commit (git commit -m "Add feature")
 Push (git push origin feature-name)
 Create a Pull Request
 📄 License
+© 2025 Manya Valecha — **All rights reserved.**
 
-This project is licensed under the MIT License. Feel free to reuse and build upon it!
+This repository is proprietary. No part of this repository may be copied, modified, distributed, or reused without prior written permission. For permission requests, contact: https://github.com/ManyaValecha
 
 🧠 Acknowledgements
 
