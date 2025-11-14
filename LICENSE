@@ -1,9 +1,145 @@
-Copyright (c) 2025 Manya Valecha. All rights reserved.
+Copyright (c) 2025 Manya Valecha.
+All rights reserved.
 
-This project and all associated files, code, and documentation are the exclusive intellectual property of Manya Valecha.
+NOTICE  
+This software, including but not limited to all source code, object code,
+compiled binaries, scripts, files, assets, artwork, audio, video, text,
+interfaces, documentation, design elements, structure, and any other
+material associated with this project (“Software”), is the exclusive
+intellectual property of Manya Valecha (“Owner”).
 
-No part of this project may be copied, modified, distributed, published, uploaded, posted, transmitted, or used in any form or by any means without the prior express written permission of the copyright holder.
+The Software is NOT open-source. It is NOT free to use, copy, modify, or
+redistribute. All rights not expressly granted to the user are reserved
+by the Owner in full.
 
-For permission requests, contact: https://github.com/ManyaValecha
-manyavalechaofficial@gmail.com 
+NO LICENSE IS GRANTED.  
+NO RIGHTS ARE TRANSFERRED.  
+NO IMPLIED PERMISSIONS EXIST.
+
+Any use of this Software without explicit prior written permission from
+the Owner is strictly prohibited.
+
+----------------------------------------------------------------------
+SECTION 1 — PROHIBITED ACTIONS
+----------------------------------------------------------------------
+
+Without explicit, written, signed, and verified authorization from the
+Owner, you are strictly forbidden from engaging in ANY of the following:
+
+1. Using the Software for ANY purpose (personal, academic, non-profit,
+   corporate, commercial, governmental, research, testing, or otherwise).
+
+2. Copying, downloading, forking, cloning, mirroring, or otherwise
+   replicating the Software in any form, whole or in part.
+
+3. Modifying, editing, translating, reverse-engineering, disassembling,
+   decompiling, or creating derivative works of the Software.
+
+4. Reproducing, redistributing, uploading, publishing, hosting,
+   transferring, or transmitting the Software by any means, including
+   public or private networks, cloud platforms, or offline storage.
+
+5. Selling, leasing, sublicensing, renting, lending, or offering access
+   to the Software.
+
+6. Using the Software in connection with any AI model training,
+   dataset aggregation, automated scraping, machine learning systems,
+   reverse engineering, or any method intended to reconstruct,
+   extract, or analyze the underlying code, design, or functionality.
+
+7. Removing, altering, hiding, or obscuring copyright notices,
+   authorship information, proprietary marks, watermarks, or metadata.
+
+8. Incorporating the Software, in whole or in part, into any other
+   project, product, application, or service, regardless of whether it
+   is open-source, closed-source, commercial, educational, or private.
+
+9. Circumventing, bypassing, or attempting to bypass any security,
+   access, use restrictions, or protective measures included in the
+   Software.
+
+----------------------------------------------------------------------
+SECTION 2 — INTELLECTUAL PROPERTY RIGHTS
+----------------------------------------------------------------------
+
+The Software is protected under international copyright law, trademark
+law, trade secret law, and applicable intellectual property statutes.
+No portion of the Software may be used or claimed as the intellectual
+property of any person other than the Owner.
+
+Ownership rights extend to:
+- The overall concept and architecture  
+- Code and implementation  
+- Visual and functional design  
+- Data structures and algorithms  
+- Documentation and written materials  
+- Branding, names, trademarks, and unique identifiers  
+- Any derivative works produced without authorization  
+
+Any unauthorized derivative work is automatically assigned to the Owner.
+
+----------------------------------------------------------------------
+SECTION 3 — LIABILITY FOR UNAUTHORIZED USE
+----------------------------------------------------------------------
+
+Unauthorized use of the Software constitutes a violation of civil and
+criminal law. Violators may be subject to:
+
+- DMCA takedowns (GitHub, GitLab, hosting providers, cloud services)
+- Civil lawsuits for damages  
+- Criminal prosecution where applicable  
+- Permanent ban from accessing, viewing, or interacting with the Software  
+- Financial penalties, injunctions, and legal costs  
+
+The Owner reserves the right to pursue ALL legal remedies available.
+
+----------------------------------------------------------------------
+SECTION 4 — COMMERCIAL USE
+----------------------------------------------------------------------
+
+This Software may ONLY be used after obtaining a valid, fully executed,
+paid commercial license agreement from the Owner.
+
+Inquiry for licensing does NOT guarantee approval.
+
+To request a commercial license, contact:  
+Email: manyavalechaofficial@gmail.com  
+GitHub: https://github.com/ManyaValecha
+
+Use of the Software without an executed commercial license is strictly
+prohibited and violates international copyright law.
+
+----------------------------------------------------------------------
+SECTION 5 — NO WARRANTY
+----------------------------------------------------------------------
+
+The Software is provided “AS IS,” without any warranty, express or
+implied. The Owner is not responsible for:
+
+- Loss of data  
+- Damages arising from unauthorized use  
+- Third-party claims  
+- Availability of the Software  
+- Misuse by unauthorized parties  
+
+----------------------------------------------------------------------
+SECTION 6 — ACCEPTANCE OF TERMS
+----------------------------------------------------------------------
+
+By viewing, accessing, downloading, or interacting with any portion of
+the Software or this repository, you acknowledge and agree that:
+
+1. You have NO rights to use the Software.  
+2. You understand that ANY use without permission is illegal.  
+3. You may be subject to legal consequences for unauthorized use.  
+4. The Owner may modify, restrict, or remove access at any time.  
+
+If you do not agree, you must immediately stop viewing or interacting
+with the Software and delete all local copies.
+
+----------------------------------------------------------------------
+END OF LICENSE
+----------------------------------------------------------------------
+
+
 
